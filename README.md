@@ -140,4 +140,3 @@ pytest -v
   tiers, leaves seat inventory untouched, and reports tiers on the sheet
   that this counter doesn't actually sell
 
-## 7. Project layout
